@@ -1,5 +1,5 @@
-#BleachedOcean
-##Installing
+# BleachedOcean
+## Installing
 If you want to install that scraper you must have already installed **cargo**, **chromedriver**
 
 There are two ways to build scraper:
@@ -13,7 +13,7 @@ There are two ways to build scraper:
     make build-release
 ```
 
-##Launching
+## Launching
 Steps to launch scraper:
 1. Run chromedriver on port 9515
 2. Launch scraper with required flags (path: ./target/release/map_scraper)
