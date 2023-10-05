@@ -1,4 +1,6 @@
-# BleachedOcean
+# Bleached Ocean
+<span style='color: rgb(20, 118, 247);'>Bleached Ocean</span> is an yandex map scraper. This scraper is built on <span style='color: rgb(217, 88, 52);'>Rust</span> with <span style='color: rgb(217, 55, 52);'>thirtyfour</span> (Selenium implementation in Rust)
+
 ## Installing
 If you want to install that scraper you must have already installed **cargo**, **chromedriver**
 
